@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "ionutvmi.path-autocomplete",
+    "ritwickdey.liveserver"
+  ]
+}
